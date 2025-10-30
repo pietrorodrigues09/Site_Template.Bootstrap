@@ -1,3 +1,3 @@
 # Site_Template.Bootstrap
-# Site sem alterações:
+# Site :
 https://pietrorodrigues09.github.io/Site_Template.Bootstrap/
