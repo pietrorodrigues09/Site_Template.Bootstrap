@@ -14,3 +14,10 @@
     height: 50%;
     object-fit: cover;
 }
+.item{
+    margin-bottom: 100px;
+}
+
+.container {
+    display: flex;
+}
